@@ -1,0 +1,1 @@
+This is odin first project, learning about HTML and creating a website.
