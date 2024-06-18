@@ -1,0 +1,14 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    background-color: orange;
+}
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: green;
+    background-color: yellow;
+}
